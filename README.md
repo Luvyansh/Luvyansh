@@ -2,25 +2,34 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" alt="animated hello" width="700">
 </p>
 
-# 💫 About Me
+# <p align="center">💫 About Me </p>
 
-<p align="center">
-  <img src="https://github.com/Luvyansh/Luvyansh/raw/main/Logo.gif" width="550">
-</p>
-
-🎓 **Education:**  
-- B.Tech in **Computer Science Engineering (AI specialization)**  
-- Diploma in **Programming & Data Science** from **IIT Madras**
-
-💻 **Skills & Expertise:**  
-- **Full-Stack Development:** Python and React (TypeScript)
-- **Programming Languages:** Java, Python, .NET, Go
-- **Automation & Tools:** Selenium, Linux, Azure
-- **Data Science & AI:** Machine Learning, Data Analysis, Business Analysis, NLP (HuggingFace), OpenCV
-- **Databases:** SQLite, PostgreSQL, Prisma, DBMS
-
-🌟 **About Me:**  
-I’m passionate about building innovative solutions that merge **AI** with real-world applications. From crafting backend systems to automating workflows and analyzing complex datasets, I strive for **excellence** in everything I do.  
+<table style="border:none; border-collapse: collapse;">
+  <tr>
+    <td >
+      <p align="center">
+        <h2>🎓 <strong>Education:</strong></h2><br>
+        - B.Tech in <strong>Computer Science Engineering (AI specialization)</strong><br>
+        - Diploma in <strong>Programming & Data Science</strong> from <strong>IIT Madras</strong>
+      </p>
+      <p align="center">
+        <h2>💻 <strong>Skills & Expertise:</strong></h2><br>
+        - <strong>Full-Stack Development:</strong> Python and React (TypeScript)<br>
+        - <strong>Programming Languages:</strong> Java, Python, .NET, Go<br>
+        - <strong>Automation & Tools:</strong> Selenium, Linux, Azure<br>
+        - <strong>Data Science & AI:</strong> Machine Learning, Data Analysis, Business Analysis, NLP (HuggingFace), OpenCV<br>
+        - <strong>Databases:</strong> SQLite, PostgreSQL, Prisma, DBMS
+      </p>
+      <p align="center">
+        <h2>🌟 <strong>About Me:</strong></h2><br>
+        I’m passionate about building innovative solutions that merge <strong>AI</strong> with real-world applications. From crafting backend systems to automating workflows and analyzing complex datasets, I strive for <strong>excellence</strong> in everything I do.
+      </p>
+    </td>
+    <td>
+      <img src="https://github.com/Luvyansh/Luvyansh/raw/main/Logo.gif" width="300">
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
