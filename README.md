@@ -18,7 +18,7 @@
         - <strong>Programming Languages:</strong> Java, Python, .NET, Go<br>
         - <strong>Automation & Tools:</strong> Selenium, Linux, Azure<br>
         - <strong>Data Science & AI:</strong> Machine Learning, Data Analysis, Business Analysis, NLP (HuggingFace), OpenCV<br>
-        - <strong>Databases:</strong> SQLite, PostgreSQL, Prisma, DBMS
+        - <strong>Databases:</strong> SQLite, PostgreSQL, Prisma, DBMS<br>
         - <strong>Microsoft Asia AI Odyssey <i>2024</i> Winner</strong>
       </p>
       <p align="center">
