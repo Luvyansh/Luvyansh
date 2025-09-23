@@ -17,7 +17,7 @@
         - <strong>Full-Stack Development:</strong> Python and React (TypeScript)<br>
         - <strong>Programming Languages:</strong> Java, Python, .NET, Go<br>
         - <strong>Automation & Tools:</strong> Selenium, Linux, Azure<br>
-        - <strong>Data Science & AI:</strong> Machine Learning, Data Analysis, Business Analysis, NLP (HuggingFace), &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenCV<br>
+        - <strong>Data Science & AI:</strong> Machine Learning, Data Analysis, Business Analysis, NLP (HuggingFace), OpenCV<br>
         - <strong>Databases:</strong> SQLite, PostgreSQL, Prisma, DBMS<br>
         - <strong>Microsoft Asia AI Odyssey <i>2024</i> Winner</strong>
       </p>
@@ -49,18 +49,6 @@
 - Advancing expertise in **AI-driven technologies (GenAI & Cloud)**  
 - Exploring new ways to combine **software engineering** with emerging tech
 - GenAI
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://discord.gg/luv.yansh"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="50" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/luv_yansh"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anurag-pandey-32ba6a293/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reddit.com/user/luvyansh"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" width="50" alt="Reddit"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/luv_yansh"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="50" alt="X"/></a>
-</p>
 
 ---
 
@@ -193,6 +181,18 @@
 ### 🔝 Top Contributed Repos
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=luvyansh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://discord.gg/luv.yansh"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="50" alt="Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/luv_yansh"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anurag-pandey-32ba6a293/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://reddit.com/user/luvyansh"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" width="50" alt="Reddit"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/luv_yansh"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="50" alt="X"/></a>
 </p>
 
 <p align="center">
