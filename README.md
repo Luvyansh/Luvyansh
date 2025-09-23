@@ -19,6 +19,7 @@
         - <strong>Automation & Tools:</strong> Selenium, Linux, Azure<br>
         - <strong>Data Science & AI:</strong> Machine Learning, Data Analysis, Business Analysis, NLP (HuggingFace), OpenCV<br>
         - <strong>Databases:</strong> SQLite, PostgreSQL, Prisma, DBMS
+        - <strong>Microsoft Asia AI Odyssey <i>2024</i> Winner</strong>
       </p>
       <p align="center">
         <h2>🌟 <strong>About Me:</strong></h2><br>
